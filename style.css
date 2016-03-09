@@ -82,6 +82,15 @@ a:hover {
  line-height: 1.6em
 
 }
+
+.list-inline a:hover {
+  font-family: Open Sans, sans-serif;
+ font-weight: 300;
+ color: rgb(221, 85, 85);
+ font-size: 15px;
+ line-height: 1.6em
+
+}
 .card {
   background-color: white;
   padding: 20px;
