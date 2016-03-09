@@ -1,0 +1,108 @@
+body {
+  background-color: RGB(235, 235, 235);
+  line-height: 1.6em;
+  font-size: 15px;
+  font-weight: 300;
+
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  color: #DD5555;
+  font-size: 22px
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: RGB(125, 125, 125);
+  font-size: 18px;
+  font-weight: 300;
+
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  color: RGB(125, 125, 125)
+
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  color: #7d7d7d;
+  font-size: 15px;
+  line-height: 1.6em;
+}
+
+a {
+ font-family: Open Sans, sans-serif;
+ font-weight: 300;
+ color: RGB(210, 204, 204);
+ font-size: 15px;
+ line-height: 1.6em;
+ text-decoration: none
+
+}
+.img-circle {
+  border-radius: 50%;
+  box-shadow: 2px 2px 2px RGB(125, 125, 125);
+}
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+.list-inline {
+  padding-left: 0px;
+}
+.list-inline li i {
+  font-size: 25px;
+}
+.btn-red {
+  background-color: #DD5555;
+  color: white;
+  font-weight: 500;
+  padding: 10px;
+  border-radius: 4px;
+}
+.card img {
+   width: 80%;
+    height: auto;
+}
+
+.container > img {
+  width: 20%;
+  height: auto;
+}
+
+a:hover {
+ font-family: Open Sans, sans-serif;
+ font-weight: 300;
+ color: rgb(221, 85, 85);
+ font-size: 15px;
+ line-height: 1.6em
+
+}
+.card {
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+  text-align: left;
+  display: block;
+  width: 500px;
+  margin: 30px auto}
+.container {
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  display: block;
+  width: 500px;
+  margin: 30px auto
+}
+#text td {
+  padding: 20px;
+}
